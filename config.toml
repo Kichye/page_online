@@ -1,4 +1,4 @@
-baseURL = kichye.github.io/page_online/public
+baseURL = "kichye.github.io/page_online/"
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"
